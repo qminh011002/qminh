@@ -1,13 +1,3 @@
-## 🛠️ Tech Stack  
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Flow](https://img.shields.io/badge/React_Flow-007ACC?style=for-the-badge&logo=reactflow&logoColor=white)
-
-## 📜 About Me  
-I'm a **frontend-stack developer** passionate about **building scalable, high-performance applications**. I specialize in **React, Next.js, TypeScript**.  
-
 🔗 **Connect with me:**  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qminh011002)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-quang-minh-520444214/)
